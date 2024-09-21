@@ -1,0 +1,7 @@
+{
+
+  "vocab_size": 44453,
+  "batch_size": 12,
+  "lr": 1e-4,
+  "epochs": 50
+}
